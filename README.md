@@ -4,10 +4,5 @@ End-to-end customer analysis using **SQL, Python, and Power BI**.
 
 ## 🖼️ Dashboard Preview
 
-![Landing Page](assets/Landing_Page.png)
+![Landing Page](Dashboard_Preview.png)
 
-![Left](assets/Left.png)
-
-![Right](assets/Right.png)
-
-![Recruitment](assets/recruitment.png)
